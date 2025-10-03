@@ -1,4 +1,4 @@
-<p align="center">
-  <h1 margin="bottom">AnubiOS</h1>
-  <h3>Easy use as Human Language</h3>
-</p>
+<div align="center" text-align="center">
+  <h1>anubiOS</h1>
+  <h4>Easy use as Human Language</h4>
+</div>
