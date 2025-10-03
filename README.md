@@ -1,5 +1,7 @@
+<dir align="center" text-align="center">
 # anubiOS
 ### Easy use as Human Language
+</dir>
 
 
 ## Base and Languages
