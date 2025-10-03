@@ -1,6 +1,6 @@
 <dir align="center" text-align="center">
-# anubiOS
-### Easy use as Human Language
+  <h1>anubiOS</h1>
+  <h3>Easy use as Human Language</h3>
 </dir>
 
 
