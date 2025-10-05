@@ -1,24 +1,10 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-<p style="
-    font-size: 36px; 
-    font-weight: bold; 
-    margin-bottom: 5px; 
-    margin-top: 10px; 
-  ">
-    anubiOS
-  </p>
+<h1>anubiOS</h1>
 
-  <p style="
-    margin-top: 0; 
-    font-size: 1.2em; 
-    font-weight: normal; 
-    color: #888888; 
-    margin-bottom: 5px; 
-  ">
-    Easy use as Human Language
-  </p>
+<h3>Easy use as Human Language</h3>
+
 
 &nbsp;
 
