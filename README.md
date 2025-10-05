@@ -1,10 +1,6 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/anubi-logo.png" alt="anubiOS Logo - Easy use as Human Language" width="150" />
-    </td>
-  </tr>
-</table>
+<dir align="center">
+  <img src="/assets/logo.png" width=100 id=Logo>
+</dir>
 
 ## Base and Languages
 
