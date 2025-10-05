@@ -4,6 +4,9 @@
  ## anubiOS
 
  Easy use as Human Language
+
+ > [!IMPORTANT]
+> This future OS is currently on development. If you want to enter into community or talk with support center, enter into Social Media & Community
  
 &nbsp;
 
@@ -31,5 +34,5 @@
   <h2>:computer: Features</h2>
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
-  <h2>:speech_balloon: Social Media & community</h2>
+  <h2>:speech_balloon: Social Media & Community</h2>
 </div>
