@@ -1,6 +1,6 @@
-<dir id=header align="center" text-align="center">
-  <img src=https://imgur.com/a/om6ttHJ width=400>
-</dir>
+<p align="center">
+  <img src="https://imgur.com/a/om6ttHJ" alt="AnubiOS Logo - Easy use as Human Language" width="100">
+</p>
 
 
 ## Base and Languages
