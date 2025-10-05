@@ -1,10 +1,14 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-  <p style="
-    font-size:20px
-    ">
+ <p style="
+    font-size: 3em; 
+    font-weight: bold; 
+    margin-bottom: 5px; /* Spacing below the title */
+    margin-top: 10px; /* Spacing above the title, if needed */
+  ">
     anubiOS
+  </p>
   </p>
   <p style="
     margin-top: 0; 
