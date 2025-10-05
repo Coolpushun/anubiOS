@@ -43,7 +43,7 @@
   </p>
 
   &nbsp;
-    <ul>
+    <ul align="center">
      <li>:seedling: <strong>Zero DNA:</strong> A truly independent operating system, built from scratch to be <strong>secure, modern, and user-focused.</strong></li>
      <li>:package: <strong>United Package Manager (Anuapp)</strong>: A custom-built, unified manager that supports both <strong>CLI and GUI installations</strong> from its own source tree</li>
      <li>:shopping: <strong>Unified Software Store (anuStore):</strong> A dedicated, user-friendly GUI store designed for seamless application management.</li>
@@ -54,7 +54,6 @@
 
   &nbsp;
 
-<dir align="center">
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
