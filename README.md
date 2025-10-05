@@ -48,6 +48,8 @@
     For the official launch event, we have prioritized system stability and user experience. The initial release leverages a <strong>highly secured and minimal base</strong> to guarantee functionality, while all <strong>anubiOS</strong> applications, the **Anuapp** package manager, and the **anubi AI** are built and configured by our team.
   </p>
 
+  &nbsp;
+
 <!-- Features-->
   
   <h2>:computer: Features</h2>
