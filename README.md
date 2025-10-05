@@ -28,4 +28,8 @@
   </p>
 
   <h2>:floppy_disk: Base</h2>
+  <h2>:computer: Features</h2>
+  <h2>:paperclip: Introduction of Features</h2>
+  <h2>:tada: Future IT Festival</h2>
+  <h2>:speech_balloon: Social Media & community</h2>
 </div>
