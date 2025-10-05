@@ -1,7 +1,12 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-<h3 style="margin-bottom: 10px;">anubiOS</h3>
+<h3 style="
+    font-size: 2.2em; /* Maxing out the size that GitHub will reliably render */
+    font-weight: bold; 
+    margin-bottom: 5px; 
+    margin-top: 10px; 
+  "">anubiOS</h3>
 
   <p style="
     margin-top: 0; 
