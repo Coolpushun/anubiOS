@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/om6ttHJ" alt="AnubiOS Logo - Easy use as Human Language" width="100">
+  <img src="assets/anubios-logo.png" alt="AnubiOS Logo - Easy use as Human Language" width="100">
 </p>
 
 
