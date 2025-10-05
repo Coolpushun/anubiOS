@@ -1,3 +1,5 @@
+<!-- The banner with logo and name of OS -->
+
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
   
@@ -9,8 +11,13 @@
  
 &nbsp;
 
+
+<!-- All Info -->
+
 <div align=center>
-<h2>:clipboard: About us</h2>
+
+  <!-- About OS-->
+<h2>:clipboard: About OS</h2>
   <p>
     anubiOS is a new, <strong>revolutionary, and modern operating system (OS)</strong> that has been built from the ground up, with absolutely 
     <strong>zero DNA from other distributions</strong>. Its entire philosophy centers on 
@@ -31,6 +38,8 @@
 
   &nbsp;
 
+<!-- Base of OS -->
+  
   <h2>:floppy_disk: Base</h2>
   <p>
     The long-term vision for anubiOS is a truly independent operating system built with <strong>Zero DNA</strong> from other distributions. This revolutionary core is currently under independent development.
@@ -38,13 +47,17 @@
   <p>
     For the official launch event, we have prioritized system stability and user experience. The initial release leverages a <strong>highly secured and minimal base</strong> to guarantee functionality, while all <strong>anubiOS</strong> applications, the **Anuapp** package manager, and the **anubi AI** are built and configured by our team.
   </p>
+
+<!-- Features-->
   
   <h2>:computer: Features</h2>
   <p>
-    Our anubiOS have a interesting, modern, unique and revolutionary features, that have a non-barrier use and it have not developed in other's OSes, such as:
+    anubiOS features are **interesting, modern, unique, and truly revolutionary**, providing <strong>non-barrier usability</strong> through designs that have never been implemented in other operating systems.
   </p>
 
   &nbsp;
+
+  <!-- List of all Features -->
 
 <div align="left">
     <ul>
@@ -67,6 +80,8 @@
 </div>
   &nbsp;
 
+  <!-- Introduction tio Features -->
+  
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
