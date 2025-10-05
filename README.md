@@ -1,5 +1,5 @@
 <dir id=header align="center" text-align="center">
-  <img src=https://imgur.com/a/om6ttHJ>
+  <img src=https://imgur.com/a/om6ttHJ width=400>
 </dir>
 
 
