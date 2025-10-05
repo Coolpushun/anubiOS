@@ -40,8 +40,11 @@
   <h2>:computer: Features</h2>
   <p>
     Our anubiOS have a interesting, modern, unique and revolutionary features, that have a non-barrier use and it have not developed in other's OSes, such as:
-    * new OS
   </p>
+  <list>
+    New OS
+    Making something
+  </list>
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
