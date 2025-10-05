@@ -41,10 +41,13 @@
   <p>
     Our anubiOS have a interesting, modern, unique and revolutionary features, that have a non-barrier use and it have not developed in other's OSes, such as:
   </p>
-  <list>
-    New OS
-    Making something
-  </list>
+  <ul>
+    <li>Own united package manager: Anuapp or anubiApp</li>
+    <li>Own GUI user-friendly and united store: anuStore </li>
+    <li>Simple Terminal: Setup for terminal and configuration</li>
+    <li>AI as advanced assistant: anubi</li>
+    <li>Modern Looking GUI and Desktop</li>
+  </ul>
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
