@@ -1,7 +1,11 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-  # anubiOS
+  <p style="
+    font-size:10px
+    ">
+    anubiOS
+  </p>
   <p style="
     margin-top: 0; 
     font-size: 1.2em; 
