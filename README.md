@@ -58,6 +58,9 @@
       &nbsp;
       <li>:city_sunset: <strong>Modern Desktop Experience:</strong> A sophisticated and clean Graphical User Interface (GUI) that prioritizes <strong>simplicity and elegance</strong>.</li>
       &nbsp;
+      <li>
+      <strong>:adhesive_bandage: GUI Recovery Suite:</strong> Simple, graphical tools for system recovery and diagnostics, including safe options **with and without data retention.
+      </li>
    </ul>
 </div>
   &nbsp;
