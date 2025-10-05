@@ -1,10 +1,9 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-<h1>anubiOS</h1>
+ <h2>anubiOS</h2>
 
-<h3>Easy use as Human Language</h3>
-
+  <h4>Easy use as Human Language</h4>
 
 &nbsp;
 
