@@ -43,6 +43,8 @@
   </p>
   
   &nbsp;
+
+</dir>
   
 <dir>
     <ul>
@@ -55,7 +57,8 @@
 </dir>
 
   &nbsp;
-  
+
+<dir align="center">
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
