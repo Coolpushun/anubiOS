@@ -44,13 +44,13 @@
 
   &nbsp;
     <ul>
-       <li>:seedling: Zero DNA: A truly independent operating system, built from scratch to be <strong>secure, modern, and user-focused.</strong></li>
-       <li>:package: Own united package manager: Anuapp or anubiApp</li>
-       <li>:shopping: Own GUI user-friendly and united store: anuStore </li>
-       <li>:keyboard: Simple Terminal: Setup for terminal and configuration</li>
-       <li>:sparkles: AI as advanced assistant: anubi</li>
-       <li>:city_sunset: Modern Looking GUI and Desktop</li>
-    </ul>
+     <li>:seedling: <strong>Zero DNA:</strong> A truly independent operating system, built from scratch to be <strong>secure, modern, and user-focused.</strong></li>
+     <li>:package: <strong>United Package Manager (Anuapp)</strong>: A custom-built, unified manager that supports both <strong>CLI and GUI installations</strong> from its own source tree</li>
+     <li>:shopping: <strong>Unified Software Store (anuStore):</strong> A dedicated, user-friendly GUI store designed for seamless application management.</li>
+     <li>:keyboard: <strong>Simple Terminal:</strong> Optimized and pre-configured for speedy setup and efficient workflow.</li>
+     <li>:sparkles: </li>
+     <li>:city_sunset: Modern Looking GUI and Desktop</li>
+   </ul>
 
   &nbsp;
 
