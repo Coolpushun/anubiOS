@@ -26,7 +26,7 @@
 
   <p>
     We are currently developing two versions of anubiOS. However, at the official 
-    <strong>Opening Event during the IT Festival in the Netherlands</strong>, we will unveil one truly unique, special edition version—a 
+    <strong>anubiOS Opening Event during the IT Festival in the Netherlands</strong>, we will unveil one truly unique, special edition version—a 
     <strong>limited release</strong> that embodies the full vision of this project.
   </p>
 
