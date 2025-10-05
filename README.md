@@ -15,6 +15,5 @@
 &nbsp;
 <div align=center>
   <h2>Introducion</h2>
+  anubiOS is a new, revolutionary os with __Easy use as Human Language__. 
 </div>
-
-# ahhlo
