@@ -30,6 +30,8 @@
     <strong>limited release</strong> that embodies the full vision of this project.
   </p>
 
+  &nbsp;
+
   <h2>:floppy_disk: Base</h2>
   <p>
     Our system is <strong>not based on other's Distro's such as Ubuntu, Arch and Debian.</strong> anubiOS as Revolutionary OS is <strong>Made from Scratch</strong> and uses own Package managers and files.
