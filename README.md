@@ -9,5 +9,21 @@
 
 <div align=center>
 <h2>:clipboard: About us</h2>
-  anubiOS is a new, revolutionary and modern distro or operating system with **Easy use as Human Language usage**. That has new changes, our apps, unique features, while others Distros don't have it. It has 2 version's of that, but on Opening Event in IT Festival in Netherlands, will have one unique version.
+  <p>
+    anubiOS is a new, <strong>revolutionary, and modern operating system (OS)</strong> that has been built from the ground up, with absolutely 
+    <strong>zero DNA from other distributions</strong>. Its entire philosophy centers on 
+    <strong>Easy use as Human Language</strong>, making it intuitive and accessible for everyone.
+  </p>
+
+  <p>
+    anubiOS introduces fundamental changes, including its own suite of custom-built applications and truly 
+    <strong>unique features</strong> that are simply unavailable in other distributions. At the core of this system is the custom-built 
+    <strong>Anuapp package manager</strong>, designed from scratch to handle both GUI and CLI installations seamlessly from its own source tree.
+  </p>
+
+  <p>
+    We are currently developing two versions of anubiOS. However, at the official 
+    <strong>Opening Event during the IT Festival in the Netherlands</strong>, we will unveil one truly unique, special edition version—a 
+    <strong>limited release</strong> that embodies the full vision of this project.
+  </p>
 </div>
