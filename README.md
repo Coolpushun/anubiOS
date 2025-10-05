@@ -5,7 +5,7 @@
 
   <p style="
     margin-top: 0; 
-    font-size: 1.5em; /* Use 1.5 times the size of default text */
+    font-size: 3em; /* Use 1.5 times the size of default text */
     font-weight: normal; 
     color: #888888; 
   ">
