@@ -12,11 +12,8 @@
     Easy use as Human Language
   </p>
   
-</div>
-
-&nbsp;
-
-<div align="center">
+<div align=center>
+  <h2>Introducion</h2>
 </div>
 
 # ahhlo
