@@ -1,11 +1,11 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-<h3 style="margin-bottom: 5px;">anubiOS</h3>
+<h3 style="margin-bottom: 10px;">anubiOS</h3>
 
   <p style="
     margin-top: 0; 
-    font-size: 3em; /* Use 1.5 times the size of default text */
+    font-size: 1.5em; /* Use 1.5 times the size of default text */
     font-weight: normal; 
     color: #888888; 
   ">
