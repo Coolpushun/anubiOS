@@ -1,9 +1,5 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/anubi-logo-dark.png">
-  
-  <img alt="anubiOS Logo - Easy use as Human Language" src="assets/anubi-logo-light.png">
-</picture>
+  <img src="assets/anubi-logo.png" alt="anubiOS Logo - Easy use as Human Language" width="100"/>
 </p>
 
 ## Base and Languages
