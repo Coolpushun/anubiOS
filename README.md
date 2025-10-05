@@ -31,6 +31,9 @@
   </p>
 
   <h2>:floppy_disk: Base</h2>
+  <p>
+    Our system is <strong>not based on other's Distro's such as Ubuntu, Arch and Debian.</strong> anubiOS as Revolutionary OS is <strong>Made from Scratch</strong> and uses own Package managers and files.
+  </p>
   <h2>:computer: Features</h2>
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
