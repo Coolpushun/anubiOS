@@ -36,7 +36,11 @@
   <p>
     Our system is <strong>not based on other's Distro's such as Ubuntu, Arch and Debian.</strong> anubiOS as Revolutionary OS is <strong>Made from Scratch</strong> and uses own Package managers and files.
   </p>
+  
   <h2>:computer: Features</h2>
+  <p>
+    Our anubiOS have a interesting, modern, unique and revolutionary features, that have a non-barrier use and it have not developed in other's OSes.  
+  </p>
   <h2>:paperclip: Introduction of Features</h2>
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
