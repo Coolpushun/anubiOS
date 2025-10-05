@@ -15,5 +15,5 @@
 &nbsp;
 <div align=center>
   <h2>Introducion</h2>
-  anubiOS is a new, revolutionary os with **Easy use as Human Language**. 
+  anubiOS is a new, revolutionary and modern distro or operating system with Easy use as Human Language usage.
 </div>
