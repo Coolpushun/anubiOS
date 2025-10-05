@@ -44,12 +44,12 @@
 
   &nbsp;
     <ul align="center">
-     <li>:seedling: <strong>Zero DNA:</strong> A truly independent operating system, built from scratch to be <strong>secure, modern, and user-focused.</strong></li>
-     <li>:package: <strong>United Package Manager (Anuapp)</strong>: A custom-built, unified manager that supports both <strong>CLI and GUI installations</strong> from its own source tree</li>
-     <li>:shopping: <strong>Unified Software Store (anuStore):</strong> A dedicated, user-friendly GUI store designed for seamless application management.</li>
-     <li>:keyboard: <strong>Simple Terminal:</strong> Optimized and pre-configured for speedy setup and efficient workflow.</li>
-     <li>:sparkles: </li>
-     <li>:city_sunset: Modern Looking GUI and Desktop</li>
+      <li>:seedling: <strong>Zero DNA:</strong> A truly independent operating system, built from scratch to be <strong>secure, modern, and user-focused.</strong></li>
+      <li>:package: <strong>United Package Manager (Anuapp)</strong>: A custom-built, unified manager that supports both <strong>CLI and GUI installations</strong> from its own source tree</li>
+      <li>:shopping: <strong>Unified Software Store (anuStore):</strong> A dedicated, user-friendly GUI store designed for seamless application management.</li>
+      <li>:keyboard: <strong>Simple Terminal:</strong> Optimized and pre-configured for speedy setup and efficient workflow.</li>
+      <li>:sparkles: <strong>AI Assistant (anubi):</strong> An <strong>advanced integrated AI</strong> designed to help users navigate and utilize the system effortlessly.</li>
+      <li>:city_sunset: <strong>Modern Desktop Experience:</strong> A sophisticated and clean Graphical User Interface (GUI) that prioritizes <strong>simplicity and elegance</strong>.</li>
    </ul>
 
   &nbsp;
