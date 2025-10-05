@@ -1,6 +1,6 @@
-<dir align="center">
+<div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
-</dir>
+</div>
 
 ## Base and Languages
 
