@@ -33,7 +33,10 @@
 
   <h2>:floppy_disk: Base</h2>
   <p>
-    Our system is <strong>not based on other's Distro's such as Ubuntu, Arch and Debian.</strong> anubiOS as Revolutionary OS is <strong>Made from Scratch</strong> and uses own Package managers and files.
+    The long-term vision for anubiOS is a truly independent operating system built with <strong>Zero DNA</strong> from other distributions. This revolutionary core is currently under independent development.
+  </p>
+  <p>
+    For the official launch event, we have prioritized system stability and user experience. The initial release leverages a <strong>highly secured and minimal base</strong> to guarantee functionality, while all <strong>anubiOS</strong> applications, the **Anuapp** package manager, and the **anubi AI** are built and configured by our team.
   </p>
   
   <h2>:computer: Features</h2>
