@@ -41,12 +41,8 @@
   <p>
     Our anubiOS have a interesting, modern, unique and revolutionary features, that have a non-barrier use and it have not developed in other's OSes, such as:
   </p>
-  
-  &nbsp;
 
-</dir>
-  
-<dir align="left">
+  &nbsp;
     <ul>
     <li>Own united package manager: Anuapp or anubiApp</li>
     <li>Own GUI user-friendly and united store: anuStore </li>
@@ -54,7 +50,6 @@
     <li>AI as advanced assistant: anubi</li>
     <li>Modern Looking GUI and Desktop</li>
   </ul>
-</dir>
 
   &nbsp;
 
