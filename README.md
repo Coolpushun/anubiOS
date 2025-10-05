@@ -1,20 +1,11 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-<h3 style="
-    font-size: 2.2em; /* Maxing out the size that GitHub will reliably render */
-    font-weight: bold; 
-    margin-bottom: 5px; 
-    margin-top: 10px; 
-  "">anubiOS</h3>
 
-  <p style="
-    margin-top: 0; 
-    font-size: 1.5em; /* Use 1.5 times the size of default text */
-    font-weight: normal; 
-    color: #888888; 
-  ">
-    Easy use as Human Language </p>
+ > **anubiOS**
+
+  Easy use as Human Language
+  
 &nbsp;
 
 <div align=center>
