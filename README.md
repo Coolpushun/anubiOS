@@ -3,6 +3,12 @@
 
     
   <h1 style="margin-bottom: 0;">anubiOS</h1>
-  <h4 style="margin-top: 0; font-weight: normal;">Easy use as Human Language</h4>
+   <p style="
+    margin-top: 0; 
+    font-size: 1.2em; 
+    font-weight: normal; 
+    color: #888888; /* Slightly lighter text for the philosophy */
+    padding-bottom: 20px;
+  ">Easy use as Human Language</p>
   
 </div>
