@@ -5,8 +5,7 @@
 
  Easy use as Human Language
 
-> [!NOTE]
-> This future OS is currently on development. If you want to enter into community or talk with support center, enter into Social Media & Community.
+> 💡 **NOTE:** This future OS is currently in development. If you want to enter into the community or talk with the support center, please refer to the **Social Media & Community** section below.
  
 &nbsp;
 
