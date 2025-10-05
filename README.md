@@ -2,7 +2,7 @@
   <img src="/assets/logo.png" width=100 id=Logo>
 
   <p style="
-    font-size:10px
+    font-size:20px
     ">
     anubiOS
   </p>
