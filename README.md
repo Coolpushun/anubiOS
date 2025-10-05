@@ -1,10 +1,11 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
-</div>
 
-<div text-align="center" align="center">
-  <h1>anubiOS</h1>
-  <h4>Easy use as Human Language</h4>
+
+  # anubiOS
+
+  **Easy use as Human Language**
+  
 </div>
 
 ## Base and Languages
