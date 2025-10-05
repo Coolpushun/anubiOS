@@ -1,7 +1,6 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
 
-  # anubiOS
+  anubiOS - Easy use as Human Language
   
-  easy use as human language
 </div>
