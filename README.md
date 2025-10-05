@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
   
- <p style="margin-bottom: 5px; margin-top: 10px; font-size: 1.5em; font-weight: bold;">
+ <p style="margin-bottom: 5px; margin-top: 10px; font-size: 3em; font-weight: bold;">
     **anubiOS**
   </p>
 
