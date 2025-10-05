@@ -46,7 +46,7 @@
 
 </dir>
   
-<dir>
+<dir align="left">
     <ul>
     <li>Own united package manager: Anuapp or anubiApp</li>
     <li>Own GUI user-friendly and united store: anuStore </li>
