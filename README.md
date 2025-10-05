@@ -26,4 +26,6 @@
     <strong>Opening Event during the IT Festival in the Netherlands</strong>, we will unveil one truly unique, special edition version—a 
     <strong>limited release</strong> that embodies the full vision of this project.
   </p>
+
+  <h2>:floppy_disk: Base</h2>
 </div>
