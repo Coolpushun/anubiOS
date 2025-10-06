@@ -93,7 +93,7 @@
   
   <p><strong>United package manager (Anuapp)</strong></p>
   <p>Anuapp is our custom-built, unified package manager that eliminates the complexity of traditional system tools. Designed from scratch, it handles all applications and packages—including those for the anubiOS source tree, Linux, Flathub, Windows, and Android—all from one single, intuitive system.</p>
-  <p>Anuapp is our custom-built, unified package manager that eliminates the complexity of traditional system tools. Designed from scratch, it handles all applications and packages—including those for the <strong>anubiOS source tree, Linux, Flathub, Windows, and Android—all</strong> from one single, intuitive system.</p>
+  <p>It doesn't just manage packages; it simplifies the process to reflect our "Easy use as Human Language" philosophy.</p>
   &nbsp;
   <p><strong>From this:</strong></p>
 
