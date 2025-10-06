@@ -54,7 +54,7 @@
   
   <h2>:computer: Features</h2>
   <p>
-    anubiOS features are **interesting, modern, unique, and truly revolutionary**, providing <strong>non-barrier usability</strong> through designs that have never been implemented in other operating systems.
+    anubiOS features are <strong>interesting, modern, unique, and truly revolutionary</strong>, providing <strong>non-barrier usability</strong> through designs that have never been implemented in other operating systems.
   </p>
 
   &nbsp;
