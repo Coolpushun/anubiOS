@@ -117,9 +117,13 @@
 
 <p><strong>AI Assistant (anubi)</strong></p>
 <p>Meet Anubi, the integrated AI Assistant built exclusively for anubiOS. Anubi embodies the "Easy use as Human Language" philosophy, acting as a conversational guide for your entire operating system. Need to find a setting? Ask. Need to install a package? Tell it to do it:
+  
   &nbsp;
+  
   <code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anubi can you fix my errors in anuapp package manager?</code>
+  
   &nbsp;
+  
   From managing the Anuapp package manager to helping you with file navigation and system diagnostics, Anubi makes complex computing tasks accessible to everyone through simple, natural dialogue.</p>
 
 &nbsp;
