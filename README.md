@@ -94,16 +94,11 @@
   &nbsp;
   <p><strong>From this:</strong></p>
 
-  ```
-sudo pacman -S firefox / sudo apt install firefox
-  ```
+<code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">sudo pacman -S firefox / sudo apt install firefox</code>
 
-<code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anuapp install firefox</code>
   <p><strong>Into this:</strong></p>
   
-  ```
-anuapp install firefox
-  ```
+<code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anuapp install firefox</code>
   
   
     
