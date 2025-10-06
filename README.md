@@ -126,7 +126,7 @@ Start your search today, follow the QR codes, and prepare to be part of history.
   <p>The anubiOS community is the heart of our project. Join the Mind Movement—where users and developers shape the future of <strong>independent and human-use computing!</strong></p>
 
 <div align="left">
-  :busts_in_silhouette: Reddit: (https://www.example.com/link)
+  :busts_in_silhouette: Discord: (https://discord.gg/cQbxt7f8)
   :newspaper: X: (https://www.example.com/link)
   :movie_camera: Youtube: (https://www.example.com/link)
 </div>
