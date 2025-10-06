@@ -45,7 +45,7 @@
     The long-term vision for anubiOS is a truly independent operating system built with <strong>Zero DNA</strong> from other distributions. This revolutionary core is currently under independent development.
   </p>
   <p>
-    For the official launch event, we have prioritized system stability and user experience. The initial release leverages a <strong>highly secured and minimal base</strong> to guarantee functionality, while all <strong>anubiOS</strong> applications, the **Anuapp** package manager, and the **anubi AI** are built and configured by our team.
+    For the official launch event, we have prioritized system stability and user experience. The initial release leverages a <strong>highly secured and minimal base</strong> to guarantee functionality, while all <strong>anubiOS</strong> applications, the <strong>Anuapp</strong> package manager, and the <strong>anubi AI</strong> are built and configured by our team.
   </p>
 
   &nbsp;
