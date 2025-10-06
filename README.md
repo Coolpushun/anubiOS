@@ -212,9 +212,12 @@ Start your search today, follow the QR codes, and prepare to be part of history.
   <h2>:speech_balloon: Social Media & Community</h2>
   <p>The anubiOS community is the heart of our project. Join the Mind Movement—where users and developers shape the future of <strong>independent and human-use computing!</strong></p>
 
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/cQbxt7f8">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="30">
+  </a>
+  <a href="https://reddit.com/r/anubiOS/">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/reddit-icon.png" width="30">
   </a>
 </div>
 </div>
