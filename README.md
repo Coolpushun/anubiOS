@@ -87,7 +87,25 @@
   <h2>:paperclip: Introduction of Features</h2>
   
   <p><strong>Zero DNA</strong></p>
-  <p><</p>
+  <p>This OS dont uses any DNA or Scripts from other's distro's such as Ubuntu, Arch and Debian. And this os is trully indepedent OS, that has own package manager build from scratch.</p>
+
+  <p><strong>United package manager (Anuapp)</strong></p>
+  <p>We made a new united package manager, that supports Linux, Flathub, Windows and Android apps in One system. And this is easier than pacman or apt:</p>
+  &nbsp;
+  <p><strong>From this:</strong></p>
+
+  ```
+sudo pacman -S firefox / sudo apt install firefox
+  ```
+  &nbsp;
+  <p><strong>Into this:</strong></p>
+  &nbsp;
+  
+  ```
+anuapp install firefox
+  ```
+  
+  
     
   <h2>:tada: Future IT Festival</h2>
   <h2>:speech_balloon: Social Media & Community</h2>
