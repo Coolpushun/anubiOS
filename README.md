@@ -216,10 +216,8 @@ Start your search today, follow the QR codes, and prepare to be part of history.
   <a href="https://discord.gg/cQbxt7f8">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="30">
   </a>
-
-  &nbsp;
   
-  <a href="https://reddit.com/r/anubiOS/">
+  &emsp; <a href="https://reddit.com/r/anubiOS/">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/reddit-icon.png" width="30">
   </a>
 </div>
