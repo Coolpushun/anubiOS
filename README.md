@@ -110,9 +110,9 @@
 
    &nbsp;
    
-  <p>While the official date and specific venue for the event are being secured, the first clues are dropping now. As part of our unique 'mind movement' community-building strategy, we are initiating the search for the launch date!
+  <p>While the official date and specific venue for the event are being secured, the first clues are dropping now. As part of our unique <strong>mind movement</strong> community-building strategy, we are initiating the search for the launch date!
 
-Follow the Clues: The opening date for the anubiOS unveiling event is rumored to be circulating in specific online communities. Our sources hint that a critical clue can be found on Reddit threads mentioning "IT Festival anubiOS opening".
+Follow the Clues: The opening date for the anubiOS unveiling event is rumored to be circulating in specific online communities. Our sources hint that a critical clue can be found on Reddit threads mentioning <strong>"IT Festival anubiOS opening"</strong>.
 
 Start your search today, follow the QR codes, and prepare to be part of history. The debut of anubiOS in the Netherlands will be more than a software launch; it will be the start of a revolution in independent computing.</p>
   <h2>:speech_balloon: Social Media & Community</h2>
