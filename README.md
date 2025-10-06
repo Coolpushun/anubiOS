@@ -130,7 +130,7 @@
 
                 📦 anuapp install [package]  : Install a new application
                 🔄 anuapp update             : Update the system and all packages
-                🔎 anuapp search [query]     : Find new software in the Anuapp repository
+                   🔎 anuapp search [query]     : Find new software in the Anuapp repository
                 ❓ anuapp help               : View detailed usage and options
 
               ─────────────────────────────────────────────────────────────
