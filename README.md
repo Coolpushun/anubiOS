@@ -124,7 +124,10 @@ Start your search today, follow the QR codes, and prepare to be part of history.
 
   <h2>:speech_balloon: Social Media & Community</h2>
   <p>The anubiOS community is the heart of our project. Join the Mind Movement—where users and developers shape the future of <strong>independent and human-use computing!</strong></p>
-  [Reddit]: (https://www.example.com/link)
-  [X]: (https://www.example.com/link)
-  [Youtube]: (https://www.example.com/link)
+
+<div align="left">
+  :busts_in_silhouette: Reddit: (https://www.example.com/link)
+  :newspaper: X: (https://www.example.com/link)
+  :movie_camera: Youtube: (https://www.example.com/link)
+</div>
 </div>
