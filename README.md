@@ -113,7 +113,7 @@
 <p><strong>Simple Terminal</strong></p>
 <p>We believe the command line should not be intimidating. The Simple Terminal for anubiOS is designed for clarity, power, and intuitive interaction. It integrates seamlessly with our custom Anuapp package manager, allowing you to use simple, natural language commands to manage your system, just as effectively as the GUI: </p>
 
-<div style="font-family: monospace; padding: 20px; background-color: #0d1117; color: #c9d1d9; border-radius: 6px; border: 1px solid #30363d;">
+<div style="font-family: monospace; padding: 20px; background-color: #0d1117; color: #c9d1d9; border-radius: 6px; border: 1px solid #30363d; align: left;">
     
   <div>
         ┌─────────────────────────────────────────────────────────────┐<br>
