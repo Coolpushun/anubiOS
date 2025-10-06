@@ -167,6 +167,8 @@ archlinux@: and nothing...
   &nbsp;
   
   <code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anubi can you fix my errors in anuapp package manager?</code>
+  <code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anubi do you know who is Linus Torvalds?</code>
+  <code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anubi I think i have a problem, can you help me with this?</code>
   
   &nbsp;
   
