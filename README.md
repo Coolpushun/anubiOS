@@ -104,6 +104,8 @@
 <code style="background-color: #0088ff; color: #fff; padding: 5px 10px; border-radius: 5px; font-size: 1.1em;">anuapp install firefox</code>
   
   &nbsp;
+
+<!-- IT Festival -->
     
   <h2>:tada: Future IT Festival</h2>
   <p>Join us for a keynote speech that will showcase the revolutionary core of anubiOS and introduce the world to its game-changing, custom-built package manager, Anuapp (CLI and GUI). We will demonstrate how anubiOS delivers on its core philosophy: "Easy use as Human Language." See firsthand how Anuapp manages installations from our own source tree, making software management intuitive and powerful for everyone.</p>
@@ -115,5 +117,14 @@
 Follow the Clues: The opening date for the anubiOS unveiling event is rumored to be circulating in specific online communities. Our sources hint that a critical clue can be found on Reddit threads mentioning <strong>"IT Festival anubiOS opening"</strong>.
 
 Start your search today, follow the QR codes, and prepare to be part of history. The debut of anubiOS in the Netherlands will be more than a software launch; it will be the start of a revolution in independent computing.</p>
+
+&nbsp;
+
+<!-- Social Media -->
+
   <h2>:speech_balloon: Social Media & Community</h2>
+  <p>The anubiOS community is the heart of our project. Join the Mind Movement—where users and developers shape the future of <strong>independent and human-use computing!</strong></p>
+  [Reddit](https://www.example.com/link)
+  [X](https://www.example.com/link)
+  [Youtube](https://www.example.com/link)
 </div>
