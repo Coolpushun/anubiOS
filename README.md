@@ -113,114 +113,14 @@
 <p><strong>Simple Terminal</strong></p>
 <p>We believe the command line should not be intimidating. The Simple Terminal for anubiOS is designed for clarity, power, and intuitive interaction. It integrates seamlessly with our custom Anuapp package manager, allowing you to use simple, natural language commands to manage your system, just as effectively as the GUI: </p>
 
-<div style="font-family: monospace; padding: 20px; background-color: #0d1117; color: #c9d1d9; border-radius: 6px; border: 1px solid #30363d; align: left;">
-    
-  <div>
-        ┌─────────────────────────────────────────────────────────────┐<br>
-        │ 🚀 anubiOS  | The Independent OS  | Easy use as Human Language │<br>
-        └─────────────────────────────────────────────────────────────┘
-    </div>
-    
-  <br>
-    
-  <div>
-        👋 Welcome back to your independent system.
-    </div>
-    
-  <br>
-    
-  <div>
-        &lt;anubios&gt;:
-    </div>
+<div align="left">
 
-  <br>
-    
-  <div style="border-top: 1px solid #30363d; margin: 10px 0;"></div>
-
-  <div style="font-weight: bold; margin-bottom: 5px;">
-        💡 First Steps with Anuapp (Your Custom Package Manager)
-    </div>
-   
-   <table style="width: 100%; border-collapse: collapse; color: #c9d1d9;">
-        <tr>
-            <td style="padding: 1px 0; width: 30px;">  📦 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">anuapp install [package]</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Install a new application</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  🔄 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">anuapp update</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Update the system and all packages</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  🔎 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">anuapp search [query]</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Find new software in the Anuapp repository</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  ❓ </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">anuapp help</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">View detailed usage and options</td>
-        </tr>
-    </table>
-
-  <div style="border-top: 1px solid #30363d; margin: 10px 0;"></div>
-
-  <div style="font-weight: bold; margin-bottom: 5px;">
-        ⚙️  Common System Commands
-    </div>
-    
-   <table style="width: 100%; border-collapse: collapse; color: #c9d1d9;">
-        <tr>
-            <td style="padding: 1px 0; width: 30px;">  📂 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">ls</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">List directory contents</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  📁 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">cd [dir]</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Change the current directory</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  📝 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">nano [file]</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Edit a text file</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  💻 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">run [app]</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Launch an application or script</td>
-        </tr>
-        <tr>
-            <td style="padding: 1px 0;">  👋 </td>
-            <td style="padding: 1px 0; font-weight: bold; white-space: nowrap;">exit</td>
-            <td style="padding: 1px 15px;">:</td>
-            <td style="padding: 1px 0;">Close the current terminal session</td>
-        </tr>
-    </table>
-
-   <br>
-    <div>
-        &lt;anubios&gt;:
-    </div>
-
+  ```
+┌────────────────────────────────────────┐
+| Welcome to Terminal Setup              |
+└────────────────────────────────────────┘
+  ```
 </div>
-
-&nbsp;
-
-<p>Instead from others distros and systems:</p>
-<p>arch@terminal:~$ _
-and nothing...</p>
-
-</dir>
 
 &nbsp;
 
