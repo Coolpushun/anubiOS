@@ -221,6 +221,6 @@ Start your search today, follow the QR codes, and prepare to be part of history.
   &nbsp;
 
 <p>COMMING SOON:</p>
-  <a href="https://youtube.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-music-icon.png" width="30"></a>
+  <a href="https://youtube.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-music-icon.png" width="30"></a>&nbsp;&nbsp;&nbsp;<a href="future.anubios.org"><img src="/assets/logo.png" width="30"></a>
 </div>
 </div>
