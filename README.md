@@ -88,9 +88,12 @@
   
   <p><strong>Zero DNA</strong></p>
   <p>This OS dont uses any DNA or Scripts from other's distro's such as Ubuntu, Arch and Debian. And this os is trully indepedent OS, that has own package manager build from scratch.</p>
+  
   &nbsp;
+  
   <p><strong>United package manager (Anuapp)</strong></p>
-  <p>We made a new united package manager, that supports Linux, Flathub, Windows and Android apps in One system. And this is easier than pacman or apt:</p>
+  <p>Anuapp is our custom-built, unified package manager that eliminates the complexity of traditional system tools. Designed from scratch, it handles all applications and packages—including those for the anubiOS source tree, Linux, Flathub, Windows, and Android—all from one single, intuitive system.</p>
+  <p>Anuapp is our custom-built, unified package manager that eliminates the complexity of traditional system tools. Designed from scratch, it handles all applications and packages—including those for the <strong>anubiOS source tree, Linux, Flathub, Windows, and Android—all</strong> from one single, intuitive system.</p>
   &nbsp;
   <p><strong>From this:</strong></p>
 
