@@ -87,7 +87,7 @@
   <h2>:paperclip: Introduction of Features</h2>
   
   <p><strong>Zero DNA</strong></p>
-  <p>This OS dont uses any DNA or Scripts from other's distro's such as Ubuntu, Arch and Debian. And this os is trully indepedent OS, that has own package manager build from scratch.</p>
+  <p><strong>anubiOS</strong> is a truly <strong>independent </strong>operating system, engineered from the ground up with <strong>Zero DNA</strong> from established distributions like Ubuntu, Arch, or Debian. It features its own custom package manager, <strong>Anuapp</strong>, built entirely from scratch to manage its source tree.</p>
   
   &nbsp;
   
