@@ -105,6 +105,31 @@
   
   &nbsp;
 
+<p><strong>Unified Software Store</strong></p>
+<p>Say goodbye to complicated repositories and fragmented package sources. The Unified Software Store is the graphical front-end for our custom-built Anuapp package manager. It brings all software installations, updates, and removals into one simple, fast, and beautiful interface. With zero DNA from other distributions, the store connects directly to the anubiOS source tree, guaranteeing speed and security. Searching for a program is as easy as human language; one click is all it takes to get to work.</p>
+
+&nbsp;
+
+<p><strong>Simple Terminal</strong></p>
+<p>We believe the command line should not be intimidating. The Simple Terminal for anubiOS is designed for clarity, power, and intuitive interaction. It integrates seamlessly with our custom Anuapp package manager, allowing you to use simple, natural language commands to manage your system, just as effectively as the GUI. It features intelligent auto-completion and helpful prompts, making complex system tasks easy as human language for both beginners and veteran developers.</p>
+
+&nbsp;
+
+<p><strong>AI Assistant (anubi)</strong></p>
+<p>Meet Anubi, the integrated AI Assistant built exclusively for anubiOS. Anubi embodies the "Easy use as Human Language" philosophy, acting as a conversational guide for your entire operating system. Need to find a setting? Ask. Need to install a package? Tell it to do it. From managing the Anuapp package manager to helping you with file navigation and system diagnostics, Anubi makes complex computing tasks accessible to everyone through simple, natural dialogue.</p>
+
+&nbsp;
+
+<p><strong>Modern Desktop Experience/strong></p>
+<p>The anubiOS desktop environment is built from scratch to be clean, responsive, and distraction-free. Designed with modern aesthetics and a focus on optimal workflow, it delivers a fluid, high-performance experience on any hardware. The entire interface is unified, from the window borders to the notifications, reflecting our commitment to independence and a truly unique, user-centric 'mind movement' philosophy. This is an operating system that gets out of your way and lets you focus on what matters.</p>
+
+&nbsp;
+
+<p><strong>GUI Recovery Suite</strong></p>
+<p>System issues should not require a frantic search for console commands. The anubiOS GUI Recovery Suite is a dedicated, user-friendly graphical environment designed to handle, diagnose, and repair system problems easily and safely. From one centralized interface, you can manage snapshots, rollback to a stable state, repair boot issues, and perform deep diagnostics without ever touching the terminal. This suite ensures that, even in moments of instability, recovering your fully independent anubiOS system is as easy as human language.</p>
+
+   &nbsp;
+
 <!-- IT Festival -->
     
   <h2>:tada: Future IT Festival</h2>
