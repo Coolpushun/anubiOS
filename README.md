@@ -114,7 +114,8 @@
 <p>We believe the command line should not be intimidating. The Simple Terminal for anubiOS is designed for clarity, power, and intuitive interaction. It integrates seamlessly with our custom Anuapp package manager, allowing you to use simple, natural language commands to manage your system, just as effectively as the GUI: </p>
 
 <dir align="left">
-<p>
+  
+```
 ┌─────────────────────────────────────────────────────────────┐
 │ 🚀 anubiOS  | The Independent OS  | Easy use as Human Language │
 └─────────────────────────────────────────────────────────────┘
@@ -142,7 +143,7 @@
   💻 run [app]     : Launch an application or script
   👋 exit          : Close the current terminal session
   anubios>: 
-</p>
+```
 
 &nbsp;
 
