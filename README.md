@@ -87,7 +87,7 @@
   <h2>:paperclip: Introduction of Features</h2>
   
   <p><strong>Zero DNA</strong></p>
-  <p><strong>anubiOS</strong> is a truly <strong>independent </strong>operating system, engineered from the ground up with <strong>Zero DNA</strong> from established distributions like Ubuntu, Arch, or Debian. It features its own custom package manager, <strong>Anuapp</strong>, built entirely from scratch to manage its source tree.</p>
+  <p>The long-term vision for anubiOS is a truly independent operating system built with <strong>Zero DNA</strong> from other distributions. The initial launch achieves this goal by utilizing a <strong>minimal, highly-secured core</strong> as the foundation. This allows all crucial anubiOS innovations—the <strong>Anuapp</strong> package manager, <strong>anubi AI</strong>, and every custom application—to be 100% custom-built and managed from our own source tree.</p>
   
   &nbsp;
   
