@@ -111,7 +111,51 @@
 &nbsp;
 
 <p><strong>Simple Terminal</strong></p>
-<p>We believe the command line should not be intimidating. The Simple Terminal for anubiOS is designed for clarity, power, and intuitive interaction. It integrates seamlessly with our custom Anuapp package manager, allowing you to use simple, natural language commands to manage your system, just as effectively as the GUI. It features intelligent auto-completion and helpful prompts, making complex system tasks easy as human language for both beginners and veteran developers.</p>
+<p>We believe the command line should not be intimidating. The Simple Terminal for anubiOS is designed for clarity, power, and intuitive interaction. It integrates seamlessly with our custom Anuapp package manager, allowing you to use simple, natural language commands to manage your system, just as effectively as the GUI: </p>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 🚀 anubiOS  | The Independent OS  | Easy use as Human Language │
+└─────────────────────────────────────────────────────────────┘
+
+👋 Welcome back to your independent system.
+
+<anubios>: _ 
+
+─────────────────────────────────────────────────────────────
+  💡 First Steps with Anuapp (Your Custom Package Manager)
+─────────────────────────────────────────────────────────────
+
+  📦 anuapp install [package]  : Install a new application
+  🔄 anuapp update             : Update the system and all packages
+  🔎 anuapp search [query]     : Find new software in the Anuapp repository
+  ❓ anuapp help               : View detailed usage and options
+
+─────────────────────────────────────────────────────────────
+  ⚙️  Common System Commands
+─────────────────────────────────────────────────────────────
+
+  📂 ls          : List directory contents
+  📁 cd [dir]    : Change the current directory
+  📝 nano [file]   : Edit a text file
+  💻 run [app]     : Launch an application or script
+  👋 exit          : Close the current terminal session
+
+<anubios>: 
+```
+
+&nbsp;
+
+<p>Instead from others distros and systems:</p>
+
+```
+arch@terminal:~$ _
+and nothing...
+```
+&nbsp;
+
+  
+<p>It features intelligent auto-completion and helpful prompts, making complex system tasks easy as human language for both beginners and veteran developers.</p>
 
 &nbsp;
 
