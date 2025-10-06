@@ -122,10 +122,10 @@
 
 👋 Welcome back to your independent system.
 
-<anubios>: _ 
+<anubios>:
 
 ─────────────────────────────────────────────────────────────
-  💡 First Steps with Anuapp (Your Custom Package Manager)
+💡 First Steps with Anuapp (Your Custom Package Manager)
 ─────────────────────────────────────────────────────────────
 
   📦 anuapp install [package]  : Install a new application
@@ -134,7 +134,7 @@
   ❓ anuapp help               : View detailed usage and options
 
 ─────────────────────────────────────────────────────────────
-  ⚙️  Common System Commands
+⚙️  Common System Commands
 ─────────────────────────────────────────────────────────────
 
   📂 ls          : List directory contents
@@ -142,7 +142,8 @@
   📝 nano [file]   : Edit a text file
   💻 run [app]     : Launch an application or script
   👋 exit          : Close the current terminal session
-  anubios>: 
+
+<anubios>:
 ```
 
 &nbsp;
