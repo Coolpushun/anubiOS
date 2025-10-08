@@ -187,6 +187,14 @@ archlinux@: and nothing...
 
 &nbsp;
 
+<img src="assets/concept-desktop.png" id="anubiOS 26 (Amon) Concept">
+
+&nbsp;
+
+<p>Concept of Desktop</p>
+
+&nbsp;
+
 <p><strong>GUI Recovery Suite</strong></p>
 <p>System issues should not require a frantic search for console commands. The anubiOS GUI Recovery Suite is a dedicated, user-friendly graphical environment designed to handle, diagnose, and repair system problems easily and safely. From one centralized interface, you can manage snapshots, rollback to a stable state, repair boot issues, and perform deep diagnostics without ever touching the terminal. This suite ensures that, even in moments of instability, recovering your fully independent anubiOS system is as easy as human language.</p>
 
