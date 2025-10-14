@@ -1,6 +1,6 @@
 <!-- The banner with logo and name of OS -->
 
-<meta name="google-site-verification" content="wM4iZIYsklI18WMsS2uq2QLFVCLAhCpbxWMPbxR4YqY" />
+<meta name="google-site-verification" content="wM4iZIYsklI18WMsS2uq2QLFVCLAhCpbxWMPbxR4YqY">
 
 <div align="center">
   <img src="/assets/logo.png" width=100 id=Logo>
