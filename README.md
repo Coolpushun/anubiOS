@@ -22,7 +22,7 @@
 <h2>:clipboard: About OS</h2>
   <p>
     anubiOS is a new, <strong>revolutionary, and modern operating system (OS)</strong> that has been built from the ground up, with absolutely 
-    <strong>zero DNA from other distributions</strong>. Its entire philosophy centers on 
+    <strong>zero DNA from other distributions and OSes</strong>. Its entire philosophy centers on 
     <strong>Easy use as Human Language</strong>, making it intuitive and accessible for everyone.
   </p>
 
